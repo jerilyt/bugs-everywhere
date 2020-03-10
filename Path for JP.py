@@ -21,4 +21,5 @@ sys.path
 # sys.path
 # 
 # * In Terminal
-# > cd //Users/rihiko/anaconda3/envs/tensorflow_env/bin
+# $ cd /Users/rihiko/anaconda3/envs/tensorflow_env/bin
+# $ ./pip install package_name
